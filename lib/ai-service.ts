@@ -160,7 +160,8 @@ function generateFallbackResponse(topic: string, styles: TitleStyle[], includeEm
   return {
     titles: titles.slice(0, 10),
     thumbnail_texts: ['$0→$2.9K', 'SHOCKED', 'Day 30', 'Watch'],
-    keywords: extractKeywords(topic).slice(0, 3)
+    keywords: extractKeywords(topic).slice(0, 3),
+    trending_formats: ['Result + Time', 'Challenge', 'Secret']
   }
 }
 

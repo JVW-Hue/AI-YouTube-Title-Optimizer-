@@ -2,6 +2,12 @@
 
 My customized AI-powered tool for generating high-CTR YouTube titles and thumbnail text. Built with Next.js 14, Supabase, and OpenAI.
 
+## 🚀 Quick Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/JVW-Hue/AI-YouTube-Title-Optimizer-)
+
+👉 **[Click here for step-by-step deployment guide](QUICK_DEPLOY.md)**
+
 ## ✨ Features
 
 - **AI-Powered Title Generation**: Generate 10+ title variations using GPT-4

@@ -3,6 +3,8 @@ import { redirect } from 'next/navigation'
 import TitleGenerator from '@/components/TitleGenerator'
 import DashboardLayout from '@/components/DashboardLayout'
 
+export const dynamic = 'force-dynamic'
+
 export default async function DashboardPage() {
   const userSession = cookies().get('user_session')
   

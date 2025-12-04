@@ -3,6 +3,8 @@ import { redirect } from 'next/navigation'
 import DashboardLayout from '@/components/DashboardLayout'
 import PricingPlans from '@/components/PricingPlans'
 
+export const dynamic = 'force-dynamic'
+
 export default async function BillingPage() {
   const userSession = cookies().get('user_session')
   

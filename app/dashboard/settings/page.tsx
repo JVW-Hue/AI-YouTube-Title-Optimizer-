@@ -2,6 +2,8 @@ import { cookies } from 'next/headers'
 import { redirect } from 'next/navigation'
 import DashboardLayout from '@/components/DashboardLayout'
 
+export const dynamic = 'force-dynamic'
+
 export default async function SettingsPage() {
   const userSession = cookies().get('user_session')
   

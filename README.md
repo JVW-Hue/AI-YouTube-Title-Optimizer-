@@ -1,6 +1,6 @@
-# 🚀 AI YouTube Title Optimizer
+# 🚀 JVW AI YouTube Title Optimizer
 
-A powerful micro-SaaS application that helps YouTubers generate high-CTR titles and thumbnail text using AI. Built with Next.js 14, Supabase, and OpenAI.
+My customized AI-powered tool for generating high-CTR YouTube titles and thumbnail text. Built with Next.js 14, Supabase, and OpenAI.
 
 ## ✨ Features
 
@@ -209,7 +209,7 @@ This project is licensed under the MIT License.
 
 ## 🆘 Support
 
-For support, email support@titleoptimizer.ai or join our Discord community.
+For questions or issues, please open an issue on GitHub.
 
 ## 🎯 Roadmap
 
@@ -223,4 +223,4 @@ For support, email support@titleoptimizer.ai or join our Discord community.
 
 ---
 
-Built with ❤️ for the YouTube creator community
+Built by JVW-Hue for YouTube creators

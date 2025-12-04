@@ -1,0 +1,17 @@
+Copy these EXACTLY into Vercel Environment Variables:
+
+Variable 1:
+Name: NEXT_PUBLIC_SUPABASE_URL
+Value: https://atteoqsnqvgkucrjfazv.supabase.co
+
+Variable 2:
+Name: NEXT_PUBLIC_SUPABASE_ANON_KEY
+Value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImF0dGVvcXNucXZna3VjcmpmYXp2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQ4Nzg1NjksImV4cCI6MjA4MDQ1NDU2OX0.R2Gvpli6nTPXr1iCPQMGNdtT1VIBNtv30rn8Aj3-12k
+
+Variable 3:
+Name: OPENAI_API_KEY
+Value: demo-key
+
+Variable 4:
+Name: NODE_ENV
+Value: production
